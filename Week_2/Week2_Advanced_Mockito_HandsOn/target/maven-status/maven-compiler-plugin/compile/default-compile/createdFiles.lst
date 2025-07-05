@@ -1,0 +1,9 @@
+com\sohin\mockito\Service.class
+com\sohin\mockito\NetworkClient.class
+com\sohin\mockito\NetworkService.class
+com\sohin\mockito\RestClient.class
+com\sohin\mockito\ApiService.class
+com\sohin\mockito\FileWriter.class
+com\sohin\mockito\FileReader.class
+com\sohin\mockito\FileService.class
+com\sohin\mockito\Repository.class
