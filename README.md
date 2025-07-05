@@ -31,8 +31,8 @@ This program is designed to equip me with **end-to-end** software engineering sk
 |-------------|--------------------------------------|-------------------|-----------------------------------------------|
 | **Week 1**  | 🎯 Engineering Concepts, DSA             | ✅ Completed      | ⭐ All mandatory + additional exercises done  |
 | **Week 2**  | 🗂️ PL/SQL, Mockito, JUnit, Spring Testing & SLF4J      |  ✅ Completed    |  ⭐ All mandatory + additional exercises done                                             |
-| **Week 3**  | ☕ Spring Core, Maven, Hibernate      | 🔄 In Progress       |                                               |
-| **Week 4**  | 🌐 Spring Boot & REST APIs            | ⏳ Upcoming       |                                               |
+| **Week 3**  | ☕ Spring Core, Maven, Hibernate      |      ✅ Completed   |   ⭐ All mandatory + additional exercises done                                               |
+| **Week 4**  | 🌐 Spring Boot & REST APIs            | 🔄 In Progress     |                                               |
 | **Week 5**  | 🏗️ Microservices with Spring Cloud   | ⏳ Upcoming       |                                               |
 | **Week 6**  | 💻 React & Angular overview           | ⏳ Upcoming       |                                               |
 | **Week 7**  | ⚙️ DevOps, CI/CD, Cloud               | ⏳ Upcoming       |                                               |
@@ -94,6 +94,20 @@ This program is designed to equip me with **end-to-end** software engineering sk
 💡 Outcome: Established a strong foundation in enterprise-grade testing, simulation, and diagnostics — aligning code with industry best practices.
 
 ---
+### 🏆 Week 3 – Milestone Achievements
+🔹 Spring Boot & JPA: Implemented CRUD operations with entity mapping and repository interfaces
+
+🔹 Service Layer: Applied business logic separation for cleaner architecture
+
+🔹 REST Controllers: Built endpoints for data handling (GET, POST, PUT, DELETE)
+
+🔹 MySQL Integration: Connected Spring app with MySQL database
+
+🔹 Troubleshooting: Fixed package mismatch and void return errors in controller methods
+
+💡 Outcome: Developed a robust, layered Spring Data JPA application demonstrating effective DB interaction and RESTful service design.
+
+---
 
 ### 📂 Folder Structure Example:
 
@@ -136,7 +150,7 @@ Building on that, *Week 2* deepened my expertise in database programming, unit t
 ---
 
 
-⭐ *Completed 100% of Week 1 & 2* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
+⭐ *Completed 100% of Week 1,2 & 3* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
 
 
 ---
