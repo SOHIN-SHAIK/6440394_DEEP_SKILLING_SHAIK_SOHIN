@@ -20,7 +20,7 @@ This program is designed to equip me with **end-to-end** software engineering sk
 - ☁️ **Platforms & DevOps**
 - 🤖 **Generative AI Fundamentals**
 
-✅ **Week 1 & 2 successfully completed with ALL exercises — both mandatory and additional!**
+✅ **Week 1,2 & 3 successfully completed with ALL exercises — both mandatory and additional!**
 
 ---
 
