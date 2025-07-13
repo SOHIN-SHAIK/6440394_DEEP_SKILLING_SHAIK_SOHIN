@@ -20,7 +20,7 @@ This program is designed to equip me with **end-to-end** software engineering sk
 - ☁️ **Platforms & DevOps**
 - 🤖 **Generative AI Fundamentals**
 
-✅ **Week 1,2 & 3 successfully completed with ALL exercises — both mandatory and additional!**
+✅ **Week 1-4 successfully completed with ALL exercises — both mandatory and additional!**
 
 ---
 
@@ -32,8 +32,8 @@ This program is designed to equip me with **end-to-end** software engineering sk
 | **Week 1**  | 🎯 Engineering Concepts, DSA             | ✅ Completed      | ⭐ All mandatory + additional exercises done  |
 | **Week 2**  | 🗂️ PL/SQL, Mockito, JUnit, Spring Testing & SLF4J      |  ✅ Completed    |  ⭐ All mandatory + additional exercises done                                             |
 | **Week 3**  | ☕ Spring Core, Maven, Hibernate      |      ✅ Completed   |   ⭐ All mandatory + additional exercises done                                               |
-| **Week 4**  | 🌐 Spring Boot & REST APIs            | 🔄 In Progress     |                                               |
-| **Week 5**  | 🏗️ Microservices with Spring Cloud   | ⏳ Upcoming       |                                               |
+| **Week 4**  | 🌐 Spring Boot & REST APIs            | ✅ Completed  | ⭐ All mandatory + additional exercises done                                               |
+| **Week 5**  | 🏗️ Microservices with Spring Cloud   | 🔄 In Progress           |                                               |
 | **Week 6**  | 💻 React & Angular overview           | ⏳ Upcoming       |                                               |
 | **Week 7**  | ⚙️ DevOps, CI/CD, Cloud               | ⏳ Upcoming       |                                               |
 | **Week 8**  | 🤖 Generative AI Fundamentals         | ⏳ Upcoming       |                                               |
@@ -109,6 +109,21 @@ This program is designed to equip me with **end-to-end** software engineering sk
 
 ---
 
+### 🏆 Week 4 – Milestone Achievements
+
+🔹 **Spring Core (XML Config):** Loaded beans using Spring XML configuration and applied dependency injection.
+
+🔹 **Spring REST (CRUD APIs):** Created RESTful services using `@RestController` for operations like fetching countries by code.
+
+🔹 **Spring Boot Projects:** Structured multiple apps with layered architecture using controllers, services, and repositories.
+
+🔹 **JWT Integration:** Built authentication service that generates and returns JWT tokens securely.
+
+🔹 **Microservices Practice:** Simulated real-world services like employee and department retrieval via REST endpoints.
+
+💡 **Outcome:** Gained strong hands-on with Spring Core, Boot, REST, and JWT, simulating enterprise-grade backend development.
+---
+
 ### 📂 Folder Structure Example:
 
 ```plaintext
@@ -127,6 +142,10 @@ This program is designed to equip me with **end-to-end** software engineering sk
 With the successful completion of **ALL mandatory and additional exercises** for *Week 1*, I have laid a strong foundation in both **design excellence** and **algorithmic thinking** — key skills for a Java Full Stack Engineer 🚀.
 
 Building on that, *Week 2* deepened my expertise in database programming, unit testing, mocking, and enterprise-level debugging — enabling me to write robust, test-driven, and maintainable backend code with confidence.
+
+ Completed Week 3 with hands-on Spring Boot & JPA, mastering RESTful CRUD APIs, MySQL integration, and layered architecture using controllers, services, and repositories ⚙️.
+
+On Top of it, Week 4 elevated my backend skills through Spring Core (XML config), multiple REST microservices, and secure JWT-based authentication 🔐.
 
 ---
 
@@ -150,7 +169,7 @@ Building on that, *Week 2* deepened my expertise in database programming, unit t
 ---
 
 
-⭐ *Completed 100% of Week 1,2 & 3* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
+⭐ *Completed 100% of Week 1-4* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
 
 
 ---
