@@ -20,7 +20,7 @@ This program is designed to equip me with **end-to-end** software engineering sk
 - ☁️ **Platforms & DevOps**
 - 🤖 **Generative AI Fundamentals**
 
-✅ **Week 1-4 successfully completed with ALL exercises — both mandatory and additional!**
+✅ **Week 1-5 successfully completed with ALL exercises — both mandatory and additional!**
 
 ---
 
@@ -33,8 +33,8 @@ This program is designed to equip me with **end-to-end** software engineering sk
 | **Week 2**  | 🗂️ PL/SQL, Mockito, JUnit, Spring Testing & SLF4J      |  ✅ Completed    |  ⭐ All mandatory + additional exercises done                                             |
 | **Week 3**  | ☕ Spring Core, Maven, Hibernate      |      ✅ Completed   |   ⭐ All mandatory + additional exercises done                                               |
 | **Week 4**  | 🌐 Spring Boot & REST APIs            | ✅ Completed  | ⭐ All mandatory + additional exercises done                                               |
-| **Week 5**  | 🏗️ Microservices with Spring Cloud   | 🔄 In Progress           |                                               |
-| **Week 6**  | 💻 React & Angular overview           | ⏳ Upcoming       |                                               |
+| **Week 5**  | 🏗️ Microservices with Spring Cloud   |   ✅ Completed          |          ⭐ All mandatory Exercises                                     |
+| **Week 6**  | 💻 React & Angular overview           | 🔄 In Progress      |                                               |
 | **Week 7**  | ⚙️ DevOps, CI/CD, Cloud               | ⏳ Upcoming       |                                               |
 | **Week 8**  | 🤖 Generative AI Fundamentals         | ⏳ Upcoming       |                                               |
 
@@ -121,7 +121,25 @@ This program is designed to equip me with **end-to-end** software engineering sk
 
 🔹 **Microservices Practice:** Simulated real-world services like employee and department retrieval via REST endpoints.
 
-💡 **Outcome:** Gained strong hands-on with Spring Core, Boot, REST, and JWT, simulating enterprise-grade backend development.
+💡 Outcome: Gained strong hands-on with Spring Core, Boot, REST, and JWT, simulating enterprise-grade backend development.
+
+---
+
+🏆 Week 5 – Milestone Achievements
+
+
+🔹 **Account & Loan Microservices:** Designed and implemented two standalone microservices for account management and loan processing.
+
+🔹 **Spring Boot REST APIs:** Developed CRUD endpoints for account creation, loan applications, and status tracking.
+
+🔹 **Service Communication:** Enabled inter-service communication using REST templates and Feign clients for seamless data flow.
+
+🔹 **Exception Handling & Validation:** Integrated global exception handling and input validation for reliable API responses.
+
+🔹 **Dockerization (Optional):** Prepared services for containerization, simulating real-world deployment scenarios.
+
+💡 Outcome: Achieved expertise in designing domain-driven microservices with Spring Boot, focusing on account and loan services to mimic real banking systems.
+
 ---
 
 ### 📂 Folder Structure Example:
@@ -147,6 +165,8 @@ Building on that, *Week 2* deepened my expertise in database programming, unit t
 
 On Top of it, Week 4 elevated my backend skills through Spring Core (XML config), multiple REST microservices, and secure JWT-based authentication 🔐.
 
+To Roof it, It is lead with Week 5 accomplishments as I Built account and loan microservices with Spring Boot REST APIs, inter-service communication, and robust validation, simulating real-world banking systems.
+
 ---
 
 ## 🌱 What’s Next?
@@ -169,7 +189,7 @@ On Top of it, Week 4 elevated my backend skills through Spring Core (XML config)
 ---
 
 
-⭐ *Completed 100% of Week 1-4* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
+⭐ *Completed 100% of Week 1-5* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
 
 
 ---
