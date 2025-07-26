@@ -154,6 +154,7 @@ This program is designed to equip me with **end-to-end** software engineering sk
 🔹 Deployment Ready: Structured project for production readiness and future scalability.
 
 💡 Outcome: Gained hands-on experience in building a full-stack microservices application by integrating a React frontend with Spring Boot backend services.
+
 ---
 
 ### 📂 Folder Structure Example:
@@ -181,7 +182,7 @@ On Top of it, Week 4 elevated my backend skills through Spring Core (XML config)
 
 To Roof it, It is lead with Week 5 accomplishments as I Built account and loan microservices with Spring Boot REST APIs, inter-service communication, and robust validation, simulating real-world banking systems.
 
-🔹 Built domain-driven Account & Loan microservices using Spring Boot with REST APIs, service communication (Feign/REST), validation, exception handling, and Docker-ready setup to simulate real-world banking systems.
+Developed and integrated a responsive React frontend with Spring Boot microservices for a complete full-stack banking application.
 
 ---
 
