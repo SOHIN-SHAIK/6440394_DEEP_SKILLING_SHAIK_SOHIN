@@ -20,7 +20,7 @@ This program is designed to equip me with **end-to-end** software engineering sk
 - ☁️ **Platforms & DevOps**
 - 🤖 **Generative AI Fundamentals**
 
-✅ **Week 1-5 successfully completed with ALL exercises — both mandatory and additional!**
+✅ **Week 1-6 successfully completed with ALL exercises — both mandatory and additional!**
 
 ---
 
@@ -34,8 +34,8 @@ This program is designed to equip me with **end-to-end** software engineering sk
 | **Week 3**  | ☕ Spring Core, Maven, Hibernate      |      ✅ Completed   |   ⭐ All mandatory + additional exercises done                                               |
 | **Week 4**  | 🌐 Spring Boot & REST APIs            | ✅ Completed  | ⭐ All mandatory + additional exercises done                                               |
 | **Week 5**  | 🏗️ Microservices with Spring Cloud   |   ✅ Completed          |          ⭐ All mandatory Exercises                                     |
-| **Week 6**  | 💻 React & Angular overview           | 🔄 In Progress      |                                               |
-| **Week 7**  | ⚙️ DevOps, CI/CD, Cloud               | ⏳ Upcoming       |                                               |
+| **Week 6**  | 💻 React & Angular overview           | ✅ Completed         |    ⭐ All mandatory Exercises                                                |
+| **Week 7**  | ⚙️ DevOps, CI/CD, Cloud               | 🔄 In Progress      |                                               |
 | **Week 8**  | 🤖 Generative AI Fundamentals         | ⏳ Upcoming       |                                               |
 
 ---
@@ -141,6 +141,20 @@ This program is designed to equip me with **end-to-end** software engineering sk
 💡 Outcome: Achieved expertise in designing domain-driven microservices with Spring Boot, focusing on account and loan services to mimic real banking systems.
 
 ---
+🏆 Week 6 – Milestone Achievements
+
+🔹 React Frontend Development: Built a responsive React UI for account and loan microservices integration.
+
+🔹 Component-Based Architecture: Designed reusable components for forms, dashboards, and status views.
+
+🔹 API Integration: Connected frontend to Spring Boot backend using Axios for real-time data fetch and updates.
+
+🔹 State Management: Managed form data, API responses, and UI state using React hooks (useState, useEffect).
+
+🔹 Deployment Ready: Structured project for production readiness and future scalability.
+
+💡 Outcome: Gained hands-on experience in building a full-stack microservices application by integrating a React frontend with Spring Boot backend services.
+---
 
 ### 📂 Folder Structure Example:
 
@@ -167,6 +181,8 @@ On Top of it, Week 4 elevated my backend skills through Spring Core (XML config)
 
 To Roof it, It is lead with Week 5 accomplishments as I Built account and loan microservices with Spring Boot REST APIs, inter-service communication, and robust validation, simulating real-world banking systems.
 
+🔹 Built domain-driven Account & Loan microservices using Spring Boot with REST APIs, service communication (Feign/REST), validation, exception handling, and Docker-ready setup to simulate real-world banking systems.
+
 ---
 
 ## 🌱 What’s Next?
@@ -189,7 +205,7 @@ To Roof it, It is lead with Week 5 accomplishments as I Built account and loan m
 ---
 
 
-⭐ *Completed 100% of Week 1-5* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
+⭐ *Completed 100% of Week 1-6* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
 
 
 ---
