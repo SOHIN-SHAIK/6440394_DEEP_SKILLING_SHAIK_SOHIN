@@ -1,0 +1,5 @@
+com\sohin\mockito\FileServiceTest.class
+com\sohin\mockito\NetworkServiceTest.class
+com\sohin\mockito\ServiceTest.class
+com\sohin\mockito\ApiServiceTest.class
+com\sohin\mockito\MultiReturnServiceTest.class
