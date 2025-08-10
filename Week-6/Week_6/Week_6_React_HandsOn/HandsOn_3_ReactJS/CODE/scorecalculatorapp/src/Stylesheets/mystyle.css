@@ -1,0 +1,41 @@
+.formatstyle {
+  text-align: center;
+  font-size: large;
+  margin-top: 40px;
+  padding: 20px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  background: #fafafa;
+  color: brown;
+}
+
+.title {
+  color: brown;
+  margin-bottom: 20px;
+}
+
+.Name {
+  font-weight: 300;
+  color: blue;
+  margin: 8px 0;
+}
+
+.School {
+  color: crimson;
+  margin: 8px 0;
+}
+
+.Total {
+  color: darkmagenta;
+  margin: 8px 0;
+}
+
+.Score {
+  color: forestgreen;
+  margin: 12px 0;
+  font-weight: bold;
+  font-size: 1.2em;
+}

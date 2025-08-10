@@ -1,0 +1,19 @@
+.posts-wrapper {
+  max-width: 700px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+
+.post-card {
+  padding: 16px;
+  margin-bottom: 24px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.post-card h2 {
+  margin-top: 0;
+  font-size: 20px;
+  color: #333;
+}

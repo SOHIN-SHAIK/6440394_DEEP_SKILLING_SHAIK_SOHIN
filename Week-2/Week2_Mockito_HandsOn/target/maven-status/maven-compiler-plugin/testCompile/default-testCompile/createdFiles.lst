@@ -1,0 +1,6 @@
+com\sohin\mockito\MyServiceTest.class
+com\sohin\mockito\MyServiceArgumentTest.class
+com\sohin\mockito\MyServiceMultipleStubTest.class
+com\sohin\mockito\MyServiceVoidTest.class
+com\sohin\mockito\MyServiceOrderTest.class
+com\sohin\mockito\MyServiceInteractionTest.class
