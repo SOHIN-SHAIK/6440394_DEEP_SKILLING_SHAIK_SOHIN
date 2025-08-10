@@ -18,9 +18,9 @@ This program is designed to equip me with **end-to-end** software engineering sk
 - 🖥️ **Programming Languages**
 - ⚙️ **Frameworks & Tools**
 - ☁️ **Platforms & DevOps**
-- 🤖 **Generative AI Fundamentals**
+- 🤖 **Git Fundamentals**
 
-✅ **Week 1-6 successfully completed with ALL exercises — both mandatory and additional!**
+✅ **Week 1-8 successfully completed with ALL exercises — both mandatory and additional!**
 
 ---
 
@@ -35,8 +35,8 @@ This program is designed to equip me with **end-to-end** software engineering sk
 | **Week 4**  | 🌐 Spring Boot & REST APIs            | ✅ Completed  | ⭐ All mandatory + additional exercises done                                               |
 | **Week 5**  | 🏗️ Microservices with Spring Cloud   |   ✅ Completed          |          ⭐ All mandatory Exercises                                     |
 | **Week 6**  | 💻 React & Angular overview           | ✅ Completed         |    ⭐ All mandatory Exercises                                                |
-| **Week 7**  | ⚙️ DevOps, CI/CD, Cloud               | 🔄 In Progress      |                                               |
-| **Week 8**  | 🤖 Generative AI Fundamentals         | ⏳ Upcoming       |                                               |
+| **Week 7**  | ⚙️ React              |   ✅ Completed      |        ⭐ All mandatory Exercises                                           |
+| **Week 8**  | 🤖 Git Fundamentals       |  ✅ Completed        |        ⭐ All mandatory Exercises                                           |
 
 ---
 
@@ -157,6 +157,39 @@ This program is designed to equip me with **end-to-end** software engineering sk
 
 ---
 
+🏆 Week 7 – Milestone Achievements
+
+🔹 React Advanced Features: Implemented routing using React Router for seamless navigation.
+
+🔹 Form Validation: Added client-side validation using custom hooks and regex patterns.
+
+🔹 UI Enhancements: Improved styling with CSS modules and responsive layouts for mobile/desktop.
+
+🔹 Error Handling: Displayed meaningful error messages for failed API calls.
+
+🔹 Performance Optimization: Used React.memo and lazy loading for faster rendering.
+
+💡 Outcome: Strengthened React skills by implementing advanced UI/UX features, navigation, and performance tuning.
+
+---
+
+
+🏆 Week 8 – Milestone Achievements
+
+🔹 Version Control Mastery: Learned Git fundamentals (init, clone, add, commit, push, pull).
+
+🔹 Branch Management: Created and merged feature branches using Git commands.
+
+🔹 Collaboration Workflow: Practiced GitHub pull requests and resolving merge conflicts.
+
+🔹 History Tracking: Used git log, git diff, and git blame for project tracking.
+
+🔹 Best Practices: Followed commit message conventions and maintained clean repository structure.
+
+💡 Outcome: Acquired solid Git & GitHub workflow skills for collaborative and maintainable development.
+
+---
+
 ### 📂 Folder Structure Example:
 
 ```plaintext
@@ -184,6 +217,10 @@ To Roof it, It is lead with Week 5 accomplishments as I Built account and loan m
 
 Developed and integrated a responsive React frontend with Spring Boot microservices for a complete full-stack banking application.
 
+Enhanced UI with routing, validation, and responsive design; optimized performance using React.memo and lazy loading.Improved error handling and user experience for seamless frontend navigation.
+
+Mastered Git commands, branching, and merge conflict resolution for smooth collaboration.Adopted commit best practices and maintained a clean, well-structured repository.
+
 ---
 
 ## 🌱 What’s Next?
@@ -206,7 +243,7 @@ Developed and integrated a responsive React frontend with Spring Boot microservi
 ---
 
 
-⭐ *Completed 100% of Week 1-6* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
+⭐ *Completed 100% of Week 1-8* | *Committed to full-stack mastery* | *Ready for challenging opportunities.*
 
 
 ---
