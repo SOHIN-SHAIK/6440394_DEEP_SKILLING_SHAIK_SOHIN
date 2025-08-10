@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+          http://www.springframework.org/schema/beans 
+          http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="employee1" class="com.cognizant.spring_learn.model.Employee">
+        <property name="id" value="1"/>
+        <property name="name" value="John"/>
+        <property name="salary" value="50000"/>
+        <property name="permanent" value="true"/>
+    </bean>
+
+    <bean id="employee2" class="com.cognizant.spring_learn.model.Employee">
+        <property name="id" value="2"/>
+        <property name="name" value="Jane"/>
+        <property name="salary" value="60000"/>
+        <property name="permanent" value="false"/>
+    </bean>
+
+</beans>
